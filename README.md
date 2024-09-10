@@ -4,4 +4,4 @@
 gg
 
 d
-v
+v k memc
