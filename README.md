@@ -1,7 +1,1 @@
-# figma-files
-
-
-gg
-
-d
-v k memc
+# figma-files.
