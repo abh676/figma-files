@@ -1,2 +1,1 @@
-# figma-files.
-fh
+# figma-files
